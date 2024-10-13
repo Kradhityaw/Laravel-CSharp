@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\laracs\laracs\bin\Debug\laracs.exe.config
+C:\Users\Administrator\source\repos\laracs\laracs\bin\Debug\laracs.exe
+C:\Users\Administrator\source\repos\laracs\laracs\bin\Debug\laracs.pdb
+C:\Users\Administrator\source\repos\laracs\laracs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\laracs\laracs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\laracs\laracs\obj\Debug\laracs.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\laracs\laracs\obj\Debug\laracs.Form1.resources
+C:\Users\Administrator\source\repos\laracs\laracs\obj\Debug\laracs.Properties.Resources.resources
+C:\Users\Administrator\source\repos\laracs\laracs\obj\Debug\laracs.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\laracs\laracs\obj\Debug\laracs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\laracs\laracs\obj\Debug\laracs.csproj.Up2Date
+C:\Users\Administrator\source\repos\laracs\laracs\obj\Debug\laracs.exe
+C:\Users\Administrator\source\repos\laracs\laracs\obj\Debug\laracs.pdb

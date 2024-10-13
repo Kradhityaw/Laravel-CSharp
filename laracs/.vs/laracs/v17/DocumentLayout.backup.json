@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\laracs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392AF8E8-9C9C-446F-BBFE-D90ADA9BA907}|laracs\\laracs.csproj|c:\\users\\administrator\\source\\repos\\laracs\\laracs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392AF8E8-9C9C-446F-BBFE-D90ADA9BA907}|laracs\\laracs.csproj|solutionrelative:laracs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392AF8E8-9C9C-446F-BBFE-D90ADA9BA907}|laracs\\laracs.csproj|C:\\Users\\Administrator\\source\\repos\\laracs\\laracs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{392AF8E8-9C9C-446F-BBFE-D90ADA9BA907}|laracs\\laracs.csproj|solutionrelative:laracs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392AF8E8-9C9C-446F-BBFE-D90ADA9BA907}|laracs\\laracs.csproj|C:\\Users\\Administrator\\source\\repos\\laracs\\laracs\\models\\siswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392AF8E8-9C9C-446F-BBFE-D90ADA9BA907}|laracs\\laracs.csproj|solutionrelative:laracs\\models\\siswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Siswa.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\laracs\\laracs\\Models\\Siswa.cs",
+              "RelativeDocumentMoniker": "laracs\\Models\\Siswa.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\laracs\\laracs\\Models\\Siswa.cs",
+              "RelativeToolTip": "laracs\\Models\\Siswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T19:20:58.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\laracs\\laracs\\Form1.cs",
+              "RelativeDocumentMoniker": "laracs\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\laracs\\laracs\\Form1.cs*",
+              "RelativeToolTip": "laracs\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:55:31.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\laracs\\laracs\\Form1.cs",
+              "RelativeDocumentMoniker": "laracs\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\laracs\\laracs\\Form1.cs [Design]*",
+              "RelativeToolTip": "laracs\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:55:27.425Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
